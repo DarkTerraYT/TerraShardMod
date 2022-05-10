@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+6uFHe331PqMGWtpPyYUtsIecWo7uW/LurdijeErI1USAY2xzxQsBekkeW9TrjPcgfDkVDLnutBdhsrKaQX/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liamw\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\TerraShard\\TerraShard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liamw\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
